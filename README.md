@@ -1,2 +1,2 @@
 # matplotlib-tutorial
-Tutotail for matplotlib using Indian states forest data
+Tutorial for matplotlib using Indian states forest data
